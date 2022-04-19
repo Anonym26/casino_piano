@@ -1,4 +1,4 @@
-# CASINO PIANO
+# `CASINO PIANO`
 
 ## Описание
 Консольное казино с возможностью выбора игр (Black Jack and Roulette). 
